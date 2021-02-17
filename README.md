@@ -1,0 +1,1 @@
+The random_state and stratify are parameters in the train_test_split() function for more on that magical function refer - https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html
